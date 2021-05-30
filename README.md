@@ -18,8 +18,3 @@ The code for the GUI and the data processing have been fully developed by us (Bi
 
 ## Sponsorship 
 This is an academic project which, as obvious, has no relationship with any company or business. The main sponsor of this project is the Barcelona School of Telecommunications Engineering (ETSETB) with the collaboration of Istituto di BioRobotica - Scuola Superiore Sant'Anna.
-
-# Data Protection 
-All the information extracted from this repository can be used under Creative Commons Attribution-NonCommercial v4.0
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License.](https://creativecommons.org/licenses/by-nc/4.0/)
