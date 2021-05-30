@@ -14,7 +14,7 @@ The goal of this project is to characterise nanomaterial samples and measure the
 
 
 ## Code Ownership 
-The code for the GUI and the data processing have been fully developed by us (Bianca Ghiorghiu and Raluca Nutu). T Arduino codes were developed by the force &amp; distance team (Maria del Remei Toda Ribes and Ares Lucena González) and modified a bit by us in order for them to send through the serial port the information that would be the most facile for us to process in Python. 
+The code for the GUI and the data processing have been fully developed by us (Bianca Ghiorghiu and Raluca Nutu). The Arduino codes were developed by the force &amp; distance team (Maria del Remei Toda Ribes and Ares Lucena González) and modified a bit by us in order for them to send through the serial port the information that would be the most facile for us to process in Python. The AD5940 evaluation board software was not developed by our team, we only took it from Analog Devices, its original author being Neo Xu. We chose to include it here in order to be able to access it quicly. 
 
 ## Sponsorship 
 This is an academic project which, as obvious, has no relationship with any company or business. The main sponsor of this project is the Barcelona School of Telecommunications Engineering (ETSETB) with the collaboration of Istituto di BioRobotica - Scuola Superiore Sant'Anna.
